@@ -1,30 +1,30 @@
-# Hi there 👋 I'm [Your Name]
+# 안녕하세요 👋 저는 [당신의 이름]입니다
 
 ---
 
-## 📚 Table of Contents
-1. [Introduction](#introduction)
-2. [Main Projects](#main-projects)
-3. [Tech Stack](#tech-stack)
-4. [History & Growth Journey](#history--growth-journey)
-5. [Competitions & Achievements](#competitions--achievements)
+## 📚 목차
+1. [소개](#소개)
+2. [주요 프로젝트](#주요-프로젝트)
+3. [기술 스택](#기술-스택)
+4. [성장 히스토리](#성장-히스토리)
+5. [대회 & 성과](#대회--성과)
 
 ---
 
-## 🚀 Introduction
-AI Engineer & Multi-Agent Application Builder with a strong background in backend systems, data pipelines, and LLM-based automation.  
-I believe in turning accumulated energy into real-world impact, continuously building products that move the world forward.
+## 🚀 소개
+백엔드 시스템, 데이터 파이프라인, LLM 기반 자동화에 강한 배경을 가진 AI 엔지니어 & 멀티 에이전트 애플리케이션 빌더입니다.  
+축적된 에너지를 실제 임팩트로 전환하고, 세상을 앞으로 나아가게 하는 제품을 지속적으로 구축한다고 믿습니다.
 
 ---
 
-## 📦 Main Projects
-| Project | Description | Tech | Role | Link |
+## 📦 주요 프로젝트
+| 프로젝트 | 설명 | 기술 | 역할 | 링크 |
 |---------|------------|------|------|------|
-| SaaS AI Marketing Platform | Local business marketing automation (Naver Place → multi-channel expansion) | FastAPI, Express.js, LLM, PyAutoGUI, Docker | AI Engineer / Backend Dev | [Repo / Demo]() |
-| KakaoTalk Automation System | Automatic messaging using FastAPI + PyAutoGUI + Express integration | FastAPI, Express.js, Python automation | AI Engineer | [Repo]() |
-| Multi-Agent AI Application | LLM agent collaboration with memory, retrieval, and task planning | Python, LangChain, MultiAgent frameworks | AI Engineer | [Repo]() |
+| SaaS AI 마케팅 플랫폼 | 지역 비즈니스 마케팅 자동화 (네이버 플레이스 → 멀티 채널 확장) | FastAPI, Express.js, LLM, PyAutoGUI, Docker | AI 엔지니어 / 백엔드 개발 | [저장소 / 데모]() |
+| 카카오톡 자동화 시스템 | FastAPI + PyAutoGUI + Express 통합을 이용한 자동 메시징 | FastAPI, Express.js, Python 자동화 | AI 엔지니어 | [저장소]() |
+| 멀티 에이전트 AI 애플리케이션 | 메모리, 검색, 작업 계획을 갖춘 LLM 에이전트 협력 | Python, LangChain, MultiAgent 프레임워크 | AI 엔지니어 | [저장소]() |
 
-(※ 이후 프로젝트 더 추가 가능)
+(※ 향후 더 많은 프로젝트 추가 가능)
 
 ---
 
@@ -71,7 +71,7 @@ I believe in turning accumulated energy into real-world impact, continuously bui
 ---
 
 ## 📫 Contact
-📍 Email: your_email@domain.com  
+📍 Email: cngkdkr@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-🌐 Portfolio: https://your-portfolio.com
+🌐 Portfolio: https://www.notion.so/Road-to-BigTec-27e153f6ee1280288935f1d2f6dfdedc?source=copy_link
 
