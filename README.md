@@ -74,5 +74,6 @@
 ## 📫 Contact
 📍 Email: cngkdkr@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-🌐 Portfolio: https://www.notion.so/Road-to-BigTec-27e153f6ee1280288935f1d2f6dfdedc?source=copy_link
+🌐 Portfolio: [Road to BigTech - Notion 기록 보기](https://www.notion.so/Road-to-BigTec-27e153f6ee1280288935f1d2f6dfdedc?source=copy_link)
+
 
