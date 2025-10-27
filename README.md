@@ -21,7 +21,7 @@
 ## 📦 주요 프로젝트
 | 프로젝트 | 설명 | 기술 | 역할 | 링크 |
 |---------|------------|------|------|------|
-| SaaS AI 마케팅 플랫폼 | 지역 비즈니스 마케팅 자동화 (네이버 플레이스 → 멀티 채널 확장) | FastAPI, Express.js, LLM, PyAutoGUI, Docker | AI 엔지니어 / 백엔드 개발 | [저장소 / 데모]() |
+| SaaS AI 마케팅 플랫폼 | 지역 비즈니스 마케팅 자동화 (네이버 플레이스 → 멀티 채널 확장) | FastAPI, Express.js, LLM, PyAutoGUI, Docker | AI 엔지니어 / 백엔드 개발 | [저장소 / 데모](https://github.com/junreud/my-backend) |
 | 카카오톡 자동화 시스템 | FastAPI + PyAutoGUI + Express 통합을 이용한 자동 메시징 | FastAPI, Express.js, Python 자동화 | AI 엔지니어 | [저장소]() |
 | 멀티 에이전트 AI 애플리케이션 | 메모리, 검색, 작업 계획을 갖춘 LLM 에이전트 협력 | Python, LangChain, MultiAgent 프레임워크 | AI 엔지니어 | [저장소]() |
 
