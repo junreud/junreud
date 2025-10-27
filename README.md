@@ -7,8 +7,8 @@
 2. [주요 프로젝트](#-주요-프로젝트)
 3. [기술 스택](#-기술-스택)
 4. [History](#-History)
-5. [대회 & 성과](#-Competition)
-6. [연락처](#-Contact)
+5. [Competition](#-Competition)
+6. [Contact](#-Contact)
 
 ---
 
