@@ -3,11 +3,12 @@
 ---
 
 ## 📚 목차
-1. [소개](#소개)
-2. [주요 프로젝트](#주요-프로젝트)
-3. [기술 스택](#기술-스택)
-4. [성장 히스토리](#성장-히스토리)
-5. [대회 & 성과](#대회--성과)
+1. [소개](#-소개)
+2. [주요 프로젝트](#-주요-프로젝트)
+3. [기술 스택](#-기술-스택)
+4. [History](#-History)
+5. [대회 & 성과](#-Competition)
+6. [연락처](#-Contact)
 
 ---
 
@@ -28,7 +29,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 기술 스택
 
 ### 🧠 AI / LLM / Data
 `LLM` · `Embedding` · `Reranking` · `Retrieval-Augmented Generation` · `Multi-Agent Systems` · `Vector DBs`
@@ -47,7 +48,7 @@
 
 ---
 
-## 📈 History & Growth Journey
+## 📈 History
 
 | Period | Focus | Notes |
 |--------|--------|--------|
@@ -60,7 +61,7 @@
 
 ---
 
-## 🏆 Competitions & Achievements
+## 🏆 Competition
 | Name | Organization | Role | Achievement |
 |------|--------------|------|------------|
 | AI Hackathon Example | (예: NAVER AI Hackathon) | Model Dev | 🥈 2nd Place |
