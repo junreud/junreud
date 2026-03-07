@@ -35,24 +35,20 @@ technology products.
 (※ 향후 더 많은 프로젝트 추가 가능)
 
 ---
+### Languages
+Python, TypeScript
 
-## 🛠 기술 스택
+### AI / Machine Learning
+PyTorch, Transformers, Scikit-learn
 
-### 🧠 AI / LLM / Data
-`LLM` · `Embedding` · `Reranking` · `Retrieval-Augmented Generation` · `Multi-Agent Systems` · `Vector DBs`
+### LLM
+RAG, LangChain, Vector DB, Prompt Engineering
 
-### 🏗 Backend & Infrastructure
-`FastAPI` · `Express.js` · `Docker` · `Kubernetes` · `Nginx`
+### Infrastructure
+vLLM, Docker, Linux
 
-### 📡 Data Pipeline & Serving
-`ETL` · `Airflow` · `Model Evaluation` · `H100/A100 Environment Serving`
-
-### 🌐 Frontend (Growing)
-`React` · `TypeScript` · `Electron (cross-platform)`
-
-### ☁️ DevOPS & Cloud
-`AWS` · `Linux/macOS/Windows` · `CI/CD`
-
+### Backend
+FastAPI, Node.js
 ---
 
 ## 📈 History
