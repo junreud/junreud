@@ -1,5 +1,12 @@
 # AI Angineer
+AI Engineer focused on building LLM-based applications.
 
+Experienced in designing RAG pipelines, optimizing LLM
+inference infrastructure (vLLM), and building scalable
+AI services.
+
+Background in full-stack development and marketing
+technology products.
 ---
 
 ## 📚 목차
