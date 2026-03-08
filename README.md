@@ -1,4 +1,4 @@
-# [김준석] | AI Engineer / LLM Engineer
+# 김준석 | AI Engineer
 
 LLM 기반 AI 시스템 설계와 서비스화를 지향하는 AI Engineer입니다.  
 RAG 파이프라인 설계, 데이터 수집/전처리, LLM 추론 인프라(vLLM) 구성, 비용 최적화, VRAM 최적화 경험이 있습니다.  
