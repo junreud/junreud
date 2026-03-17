@@ -156,23 +156,23 @@ S&P500 시계열 데이터 기반 대회 프로젝트로, 커스텀 지표(Adjus
 
 ---
 
-### 3) DACON | HAI(하이)! - Hecto AI Challenge : 2025 하반기 헥토 채용 AI 경진대회
+### 3) DACON | Hecto AI Challenge - Deepfake Detection
 
-Deepfake Detection 대회에서 VLM 기반 접근으로 모델을 개발해 459개 팀 중 10위를 기록했습니다.
+459개 팀 중 **10위 (상위 2%)** 기록. Vision-Language Model(VLM)을 활용한 딥페이크 탐지 모델을 개발했습니다.
 
 **What I did**
 
-- 데이터 분석 및 전처리
-- VLM 기반 모델 실험 및 성능 개선
-- 실험 결과 비교 및 오류 분석 반복
+- **Modeling**: Vision-Language Model(VLM)을 활용한 멀티모달 모델 실험 및 성능 최적화
+- **Training**: 대회 도메인과 유사한 생성기법의 데이터셋 샘플링 후 전략적인 제한적 Fine-tuning
+- **Evaluation**: 대회 도메인과 유사한 평가 데이터셋 Heuristic 구축 후 실험 결과 비교 및 오류 분석(Error Analysis)을 바탕으로 모델 강건성 확보
 
 **Result**
 
-- 459개 팀 중 10위
+- 459개 팀 중 10위 (상위 2%)
 
 **Tech**
 
-- Python, PyTorch, Vision-Language Model, Multimodal Modeling
+- Python, PyTorch, Vision-Language Model, HuggingFace
 
 ---
 
