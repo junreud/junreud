@@ -20,8 +20,7 @@ gantt
 
     section Projects
     Market Prediction Kaggle - Submission Phase         :crit, p1_sub, 2025-09-01, 2025-12-31
-    고객상담챗봇 - SK Family Final Project        :active, p2, 2025-11-01, 2025-12-31
-    Hecto Deepfake Detection - DACON                 :p3, 2025-12-01, 2025-12-31
+    Hecto Deepfake Detection - DACON                 :p3, 2025-12-29, 2025-12-31
     K리그 축구공 좌표 예측 - DACON                     :p4, 2025-12-01, 2025-12-31
 ```
 
@@ -37,9 +36,9 @@ gantt
 
     section Projects
     Market Prediction Kaggle - Evaluation Phase         :active, p1_eval, 2026-01-01, 2026-06-17
-    고객상담챗봇 - SK Family Final Project        :active, p2, 2026-01-01, 2026-03-31
     Hecto Deepfake Detection - DACON                 :p3, 2026-01-01, 2026-02-28
     K리그 축구공 좌표 예측 - DACON                     :p4, 2026-01-01, 2026-01-31
+    고객상담챗봇 - SK Family Final Project        :active, p2, 2026-02-02, 2026-03-31
 
     section Future
     (Planned Career Activities)              :milestone, m2, 2026-12-31, 0d
