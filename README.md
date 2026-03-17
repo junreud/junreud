@@ -41,7 +41,7 @@ gantt
     고객상담챗봇 - SK Family Final Project        :active, p2, 2026-02-02, 2026-03-31
 
     section Future
-    (Planned Career Activities)              :milestone, m2, 2026-12-31, 0d
+    .              :milestone, m2, 2026-12-31, 0d
 ```
 
 ---
