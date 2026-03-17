@@ -10,7 +10,7 @@ gantt
     dateFormat  YYYY-MM-DD
     axisFormat  %m
     tickInterval 1month
-    
+
     %% Axis starts from Jan 2025
     section Timeline 2025
     (Preparation Period)                     :milestone, m1, 2025-01-01, 0d
@@ -19,10 +19,10 @@ gantt
     SK Family 엔코아 플레이데이터 AI 21기      :active, edu1, 2025-10-01, 2025-12-31
 
     section Projects
-    Hull Tactical - Submission Phase         :crit, p1_sub, 2025-09-01, 2025-12-31
-    Customer Support Chatbot with RAG        :active, p2, 2025-11-01, 2025-12-31
-    Hecto Deepfake Detection                 :p3, 2025-12-01, 2025-12-31
-    K리그 축구공 좌표 예측                     :p4, 2025-12-01, 2025-12-31
+    Market Prediction Kaggle - Submission Phase         :crit, p1_sub, 2025-09-01, 2025-12-31
+    고객상담챗봇 - SK Family Final Project        :active, p2, 2025-11-01, 2025-12-31
+    Hecto Deepfake Detection - DACON                 :p3, 2025-12-01, 2025-12-31
+    K리그 축구공 좌표 예측 - DACON                     :p4, 2025-12-01, 2025-12-31
 ```
 
 ```mermaid
@@ -36,10 +36,10 @@ gantt
     SK Family 엔코아 플레이데이터 AI 21기      :active, edu1, 2026-01-01, 2026-03-31
 
     section Projects
-    Hull Tactical - Evaluation Phase         :active, p1_eval, 2026-01-01, 2026-06-17
-    Customer Support Chatbot with RAG        :active, p2, 2026-01-01, 2026-03-31
-    Hecto Deepfake Detection                 :p3, 2026-01-01, 2026-02-28
-    K리그 축구공 좌표 예측                     :p4, 2026-01-01, 2026-01-31
+    Market Prediction Kaggle - Evaluation Phase         :active, p1_eval, 2026-01-01, 2026-06-17
+    고객상담챗봇 - SK Family Final Project        :active, p2, 2026-01-01, 2026-03-31
+    Hecto Deepfake Detection - DACON                 :p3, 2026-01-01, 2026-02-28
+    K리그 축구공 좌표 예측 - DACON                     :p4, 2026-01-01, 2026-01-31
 
     section Future
     (Planned Career Activities)              :milestone, m2, 2026-12-31, 0d
