@@ -40,6 +40,9 @@ gantt
     Customer Support Chatbot with RAG        :active, p2, 2026-01-01, 2026-03-31
     Hecto Deepfake Detection                 :p3, 2026-01-01, 2026-02-28
     K리그 축구공 좌표 예측                     :p4, 2026-01-01, 2026-01-31
+
+    section Future
+    (Planned Career Activities)              :milestone, m2, 2026-12-31, 0d
 ```
 
 ---
