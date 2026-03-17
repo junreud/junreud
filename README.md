@@ -19,9 +19,9 @@ gantt
     SK Family 엔코아 플레이데이터 AI 21기      :active, edu1, 2025-10-01, 2025-12-31
 
     section Projects
-    Market Prediction Kaggle - Submission Phase         :crit, p1_sub, 2025-09-01, 2025-12-31
-    Hecto Deepfake Detection - DACON                 :p3, 2025-12-29, 2025-12-31
-    K리그 축구공 좌표 예측 - DACON                     :p4, 2025-12-01, 2025-12-31
+    Market Prediction Kaggle - Submission Phase         :p1, 2025-11-11, 2025-12-31
+    Hecto Deepfake Detection - DACON                 :p2, 2025-12-29, 2025-12-31
+    K리그 축구공 좌표 예측 - DACON                     :p3, 2025-12-01, 2025-12-31
 ```
 
 ```mermaid
