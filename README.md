@@ -176,6 +176,25 @@ S&P500 시계열 데이터 기반 대회 프로젝트로, 커스텀 지표(Adjus
 
 ---
 
+### 4) DACON | Soccer Ball Position Prediction
+
+937개 팀 중 **상위 10%** 기록. 축구 경기 영상 내 축구공 좌표 예측 모델링을 수행했습니다.
+
+**What I did**
+
+- **Analysis**: 문제 정의 및 평가 지표 분석을 통한 가설 설정 및 데이터 전처리 파이프라인 구축
+- **Validation**: 가설-실험-검증 프로세스 반복 및 W&B 로그 분석을 통한 최종 모델 성능 고도화
+
+**Result**
+
+- 937개 팀 중 상위 10%
+
+**Tech**
+
+- Python, PyTorch, Scikit-learn, Pandas, W&B
+
+---
+
 ## Experience
 
 ### Marketing Business & Outbound Sales
