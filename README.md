@@ -13,7 +13,7 @@ gantt
 
     %% Axis starts from Jan 2025
     section Timeline 2025
-    (Preparation Period)                     :milestone, m1, 2025-01-01, 0d
+    .                     :milestone, m1, 2025-01-01, 0d
 
     section Education
     SK Family 엔코아 플레이데이터 AI 21기      :active, edu1, 2025-10-01, 2025-12-31
