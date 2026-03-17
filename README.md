@@ -11,16 +11,13 @@ gantt
     axisFormat  %m
     tickInterval 1month
 
-    section Career Pivot
-    Marketing & Business Operations          :done, m1, 2025-01-01, 2025-09-30
-
     section Education
     SK Family 엔코아 플레이데이터 AI 21기      :active, edu1, 2025-10-01, 2026-03-31
 
     section Projects
     Hull Tactical - Market Prediction        :active, p1, 2025-09-01, 2026-06-17
     Customer Support Chatbot with RAG        :active, p2, 2025-11-01, 2026-03-31
-    Hecto AI Challenge - Deepfake Detection  :p3, 2025-12-01, 2026-02-28
+    Hecto Deepfake Detection  :p3, 2025-12-01, 2026-02-28
     K리그 축구공 좌표 예측                     :p4, 2025-12-01, 2026-01-31
 ```
 
